@@ -1,9 +1,14 @@
-# api documentation for  [hubot-jenkins (v1.0.2)](https://github.com/hubot-scripts/hubot-jenkins)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot-jenkins.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot-jenkins) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot-jenkins.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot-jenkins)
+# npmdoc-hubot-jenkins
+
+#### api documentation for  [hubot-jenkins (v1.0.2)](https://github.com/hubot-scripts/hubot-jenkins)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot-jenkins.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot-jenkins) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot-jenkins.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot-jenkins)
+
 #### Jenkins Integration for Hubot
 
-[![NPM](https://nodei.co/npm/hubot-jenkins.png?downloads=true)](https://www.npmjs.com/package/hubot-jenkins)
+[![NPM](https://nodei.co/npm/hubot-jenkins.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hubot-jenkins)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-hubot-jenkins/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-hubot-jenkins_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hubot-jenkins/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-hubot-jenkins/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-hubot-jenkins/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-hubot-jenkins/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hubot-jenkins/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-hubot-jenkins/build/screenCapture.npmPackageListing.svg)
 
@@ -47,13 +52,11 @@
     "main": "index.coffee",
     "maintainers": [
         {
-            "name": "balbeko",
-            "email": "sergey@balbeko.com"
+            "name": "balbeko"
         }
     ],
     "name": "hubot-jenkins",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/hubot-scripts/hubot-jenkins.git"
@@ -64,16 +67,6 @@
     "version": "1.0.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module hubot-jenkins](#apidoc.module.hubot-jenkins)
-
-
-
-# <a name="apidoc.module.hubot-jenkins"></a>[module hubot-jenkins](#apidoc.module.hubot-jenkins)
 
 
 
