@@ -1,6 +1,6 @@
 # npmdoc-hubot-jenkins
 
-#### api documentation for  [hubot-jenkins (v1.0.2)](https://github.com/hubot-scripts/hubot-jenkins)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot-jenkins.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot-jenkins) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot-jenkins.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot-jenkins)
+#### basic api documentation for  [hubot-jenkins (v1.0.2)](https://github.com/hubot-scripts/hubot-jenkins)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot-jenkins.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot-jenkins) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot-jenkins.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot-jenkins)
 
 #### Jenkins Integration for Hubot
 
@@ -64,7 +64,8 @@
     "scripts": {
         "test": "script/test"
     },
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "bin": {}
 }
 ```
 
